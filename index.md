@@ -1,7 +1,8 @@
-## 啊哈，这是我第一次创建网页
+## 这是刚刚入手，慢慢学习更深奥的
+   啊哈，这是我第一次创建网页
    周媛你是第一看我网站的人
    啧啧，所以你觉得则模样呢
-   我也是刚刚入手
+   我会慢慢努力的
 
 You can use the [editor on GitHub](https://github.com/dudu-cy/123/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
